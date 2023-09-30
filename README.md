@@ -1,2 +1,2 @@
 # lemon.woods
-raw html and css website powered with bootstrap
+E-commerece landing page for wood company with boostrap and pure HTML,css
